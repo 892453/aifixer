@@ -1,0 +1,10 @@
+college\player\simple\controller\testController.class
+college\player\simple\MainApplication.class
+college\player\simple\controller\registController.class
+college\player\simple\controller\loginController.class
+college\player\simple\controller\MyController.class
+college\player\simple\service\registservice.class
+college\player\simple\config\WebConfig.class
+college\player\simple\service\uploadservice.class
+college\player\simple\config\RabbitmqConfig.class
+college\player\simple\service\testservice.class
